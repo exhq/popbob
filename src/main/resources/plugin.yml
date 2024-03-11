@@ -1,0 +1,8 @@
+name: popbob
+version: '${version}'
+main: dev.exhq.popbob.Popbob
+api-version: '1.20'
+commands:
+  spawnpopbob:
+    description: uhhhhhhhhhhhh
+    usage: /<command>
